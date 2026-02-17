@@ -17,10 +17,17 @@
 - 路徑：`/report-writing`
 - 使用：適用於正式報告產出
 
-## 使用方式
+## 實際使用範例
 
-在 Claude 中說：
+### 美股分析
 \`\`\`
-請使用我的 [skill名稱] skill
-位置：https://github.com/我的用戶名/claude-skills/tree/main/[skill名稱]
+請使用我的 stock-analysis skill：
+https://github.com/jack926509/claude-skills/tree/main/stock-analysis
+
+生成今天的美股分析報告
+\`\`\`
+
+### 技術分析
+\`\`\`
+請使用我的 technical-analysis skill 分析 NVDA
 \`\`\`
